@@ -15,6 +15,8 @@ class School
   
   def grade(level)
     @roster.each do |levels, students|
-      
+      if levels == level
+    end
+  end
     
 end
