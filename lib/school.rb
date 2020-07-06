@@ -24,7 +24,7 @@ class School
   def sort
     sortedhash = {}
     @roster.each do|levels, students|
-    
+    sortedhash 
  
 end
 end
