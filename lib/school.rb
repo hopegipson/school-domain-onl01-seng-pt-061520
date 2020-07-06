@@ -13,5 +13,6 @@ class School
     @roster[level] << student
   end
   
-  
+  def grade_level
+    
 end
